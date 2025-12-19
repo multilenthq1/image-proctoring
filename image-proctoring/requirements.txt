@@ -1,0 +1,10 @@
+# Image Proctoring Requirements
+mediapipe==0.10.9
+opencv-python==4.8.1.78
+numpy==1.24.3
+pyaudio==0.2.14
+
+# Server dependencies
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0

@@ -1,0 +1,717 @@
+2025-12-19 13:47:06 - proctoring_server - INFO - Initializing Proctoring Server...
+2025-12-19 13:47:06 - proctoring_server - INFO - Server initialization complete!
+2025-12-19 13:47:13 - proctoring_server - INFO - Analyzing frame 1 from client client_20251219_134712
+2025-12-19 13:47:13 - proctoring_server - WARNING - Frame 1: SUSPICIOUS - 1 violations
+2025-12-19 13:47:13 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:14 - proctoring_server - INFO - Analyzing frame 2 from client client_20251219_134712
+2025-12-19 13:47:14 - proctoring_server - WARNING - Frame 2: SUSPICIOUS - 2 violations
+2025-12-19 13:47:14 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:47:14 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:47:15 - proctoring_server - INFO - Analyzing frame 3 from client client_20251219_134712
+2025-12-19 13:47:15 - proctoring_server - WARNING - Frame 3: SUSPICIOUS - 1 violations
+2025-12-19 13:47:15 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:47:16 - proctoring_server - INFO - Analyzing frame 4 from client client_20251219_134712
+2025-12-19 13:47:16 - proctoring_server - INFO - Frame 4: Normal
+2025-12-19 13:47:17 - proctoring_server - INFO - Analyzing frame 5 from client client_20251219_134712
+2025-12-19 13:47:17 - proctoring_server - WARNING - Frame 5: SUSPICIOUS - 1 violations
+2025-12-19 13:47:17 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:18 - proctoring_server - INFO - Analyzing frame 6 from client client_20251219_134712
+2025-12-19 13:47:18 - proctoring_server - WARNING - Frame 6: SUSPICIOUS - 2 violations
+2025-12-19 13:47:18 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:18 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:47:19 - proctoring_server - INFO - Analyzing frame 7 from client client_20251219_134712
+2025-12-19 13:47:19 - proctoring_server - WARNING - Frame 7: SUSPICIOUS - 1 violations
+2025-12-19 13:47:19 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:47:20 - proctoring_server - INFO - Analyzing frame 8 from client client_20251219_134712
+2025-12-19 13:47:20 - proctoring_server - WARNING - Frame 8: SUSPICIOUS - 1 violations
+2025-12-19 13:47:20 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:47:21 - proctoring_server - INFO - Analyzing frame 9 from client client_20251219_134712
+2025-12-19 13:47:21 - proctoring_server - WARNING - Frame 9: SUSPICIOUS - 1 violations
+2025-12-19 13:47:21 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:47:22 - proctoring_server - INFO - Analyzing frame 10 from client client_20251219_134712
+2025-12-19 13:47:22 - proctoring_server - INFO - Frame 10: Normal
+2025-12-19 13:47:23 - proctoring_server - INFO - Analyzing frame 11 from client client_20251219_134712
+2025-12-19 13:47:23 - proctoring_server - INFO - Frame 11: Normal
+2025-12-19 13:47:24 - proctoring_server - INFO - Analyzing frame 12 from client client_20251219_134712
+2025-12-19 13:47:24 - proctoring_server - INFO - Frame 12: Normal
+2025-12-19 13:47:25 - proctoring_server - INFO - Analyzing frame 13 from client client_20251219_134712
+2025-12-19 13:47:25 - proctoring_server - INFO - Frame 13: Normal
+2025-12-19 13:47:26 - proctoring_server - INFO - Analyzing frame 14 from client client_20251219_134712
+2025-12-19 13:47:26 - proctoring_server - INFO - Frame 14: Normal
+2025-12-19 13:47:27 - proctoring_server - INFO - Analyzing frame 15 from client client_20251219_134712
+2025-12-19 13:47:27 - proctoring_server - INFO - Frame 15: Normal
+2025-12-19 13:47:28 - proctoring_server - INFO - Analyzing frame 16 from client client_20251219_134712
+2025-12-19 13:47:28 - proctoring_server - INFO - Frame 16: Normal
+2025-12-19 13:47:29 - proctoring_server - INFO - Analyzing frame 17 from client client_20251219_134712
+2025-12-19 13:47:29 - proctoring_server - INFO - Frame 17: Normal
+2025-12-19 13:47:30 - proctoring_server - INFO - Analyzing frame 18 from client client_20251219_134712
+2025-12-19 13:47:30 - proctoring_server - INFO - Frame 18: Normal
+2025-12-19 13:47:31 - proctoring_server - INFO - Analyzing frame 19 from client client_20251219_134712
+2025-12-19 13:47:31 - proctoring_server - INFO - Frame 19: Normal
+2025-12-19 13:47:32 - proctoring_server - INFO - Analyzing frame 20 from client client_20251219_134712
+2025-12-19 13:47:32 - proctoring_server - INFO - Frame 20: Normal
+2025-12-19 13:47:33 - proctoring_server - INFO - Analyzing frame 21 from client client_20251219_134712
+2025-12-19 13:47:33 - proctoring_server - INFO - Frame 21: Normal
+2025-12-19 13:47:34 - proctoring_server - INFO - Analyzing frame 22 from client client_20251219_134712
+2025-12-19 13:47:34 - proctoring_server - INFO - Frame 22: Normal
+2025-12-19 13:47:35 - proctoring_server - INFO - Analyzing frame 23 from client client_20251219_134712
+2025-12-19 13:47:35 - proctoring_server - INFO - Frame 23: Normal
+2025-12-19 13:47:36 - proctoring_server - INFO - Analyzing frame 24 from client client_20251219_134712
+2025-12-19 13:47:36 - proctoring_server - INFO - Frame 24: Normal
+2025-12-19 13:47:37 - proctoring_server - INFO - Analyzing frame 25 from client client_20251219_134712
+2025-12-19 13:47:37 - proctoring_server - INFO - Frame 25: Normal
+2025-12-19 13:47:38 - proctoring_server - INFO - Analyzing frame 26 from client client_20251219_134712
+2025-12-19 13:47:38 - proctoring_server - INFO - Frame 26: Normal
+2025-12-19 13:47:39 - proctoring_server - INFO - Analyzing frame 27 from client client_20251219_134712
+2025-12-19 13:47:39 - proctoring_server - INFO - Frame 27: Normal
+2025-12-19 13:47:40 - proctoring_server - INFO - Analyzing frame 28 from client client_20251219_134712
+2025-12-19 13:47:40 - proctoring_server - INFO - Frame 28: Normal
+2025-12-19 13:47:41 - proctoring_server - INFO - Analyzing frame 29 from client client_20251219_134712
+2025-12-19 13:47:41 - proctoring_server - INFO - Frame 29: Normal
+2025-12-19 13:47:42 - proctoring_server - INFO - Analyzing frame 30 from client client_20251219_134712
+2025-12-19 13:47:42 - proctoring_server - INFO - Frame 30: Normal
+2025-12-19 13:47:43 - proctoring_server - INFO - Analyzing frame 31 from client client_20251219_134712
+2025-12-19 13:47:43 - proctoring_server - WARNING - Frame 31: SUSPICIOUS - 1 violations
+2025-12-19 13:47:43 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:44 - proctoring_server - INFO - Analyzing frame 32 from client client_20251219_134712
+2025-12-19 13:47:44 - proctoring_server - WARNING - Frame 32: SUSPICIOUS - 1 violations
+2025-12-19 13:47:44 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:45 - proctoring_server - INFO - Analyzing frame 33 from client client_20251219_134712
+2025-12-19 13:47:45 - proctoring_server - WARNING - Frame 33: SUSPICIOUS - 1 violations
+2025-12-19 13:47:45 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:46 - proctoring_server - INFO - Analyzing frame 34 from client client_20251219_134712
+2025-12-19 13:47:46 - proctoring_server - WARNING - Frame 34: SUSPICIOUS - 1 violations
+2025-12-19 13:47:46 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:47 - proctoring_server - INFO - Analyzing frame 35 from client client_20251219_134712
+2025-12-19 13:47:48 - proctoring_server - WARNING - Frame 35: SUSPICIOUS - 1 violations
+2025-12-19 13:47:48 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:48 - proctoring_server - INFO - Analyzing frame 36 from client client_20251219_134712
+2025-12-19 13:47:49 - proctoring_server - WARNING - Frame 36: SUSPICIOUS - 1 violations
+2025-12-19 13:47:49 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:50 - proctoring_server - INFO - Analyzing frame 37 from client client_20251219_134712
+2025-12-19 13:47:50 - proctoring_server - WARNING - Frame 37: SUSPICIOUS - 1 violations
+2025-12-19 13:47:50 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:51 - proctoring_server - INFO - Analyzing frame 38 from client client_20251219_134712
+2025-12-19 13:47:51 - proctoring_server - WARNING - Frame 38: SUSPICIOUS - 1 violations
+2025-12-19 13:47:51 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:52 - proctoring_server - INFO - Analyzing frame 39 from client client_20251219_134712
+2025-12-19 13:47:52 - proctoring_server - WARNING - Frame 39: SUSPICIOUS - 1 violations
+2025-12-19 13:47:52 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:53 - proctoring_server - INFO - Analyzing frame 40 from client client_20251219_134712
+2025-12-19 13:47:53 - proctoring_server - WARNING - Frame 40: SUSPICIOUS - 1 violations
+2025-12-19 13:47:53 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:54 - proctoring_server - INFO - Analyzing frame 41 from client client_20251219_134712
+2025-12-19 13:47:54 - proctoring_server - WARNING - Frame 41: SUSPICIOUS - 1 violations
+2025-12-19 13:47:54 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:47:55 - proctoring_server - INFO - Analyzing frame 42 from client client_20251219_134712
+2025-12-19 13:47:55 - proctoring_server - WARNING - Frame 42: SUSPICIOUS - 2 violations
+2025-12-19 13:47:55 - proctoring_server - WARNING -   - Head pose violation: Looking Right
+2025-12-19 13:47:55 - proctoring_server - WARNING -   - Eye tracking violation: Gaze LEFT
+2025-12-19 13:47:56 - proctoring_server - INFO - Analyzing frame 43 from client client_20251219_134712
+2025-12-19 13:47:56 - proctoring_server - WARNING - Frame 43: SUSPICIOUS - 1 violations
+2025-12-19 13:47:56 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:57 - proctoring_server - INFO - Analyzing frame 44 from client client_20251219_134712
+2025-12-19 13:47:57 - proctoring_server - WARNING - Frame 44: SUSPICIOUS - 1 violations
+2025-12-19 13:47:57 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:58 - proctoring_server - INFO - Analyzing frame 45 from client client_20251219_134712
+2025-12-19 13:47:58 - proctoring_server - WARNING - Frame 45: SUSPICIOUS - 1 violations
+2025-12-19 13:47:58 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:47:59 - proctoring_server - INFO - Analyzing frame 46 from client client_20251219_134712
+2025-12-19 13:47:59 - proctoring_server - WARNING - Frame 46: SUSPICIOUS - 1 violations
+2025-12-19 13:47:59 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:00 - proctoring_server - INFO - Analyzing frame 47 from client client_20251219_134712
+2025-12-19 13:48:00 - proctoring_server - WARNING - Frame 47: SUSPICIOUS - 1 violations
+2025-12-19 13:48:00 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:01 - proctoring_server - INFO - Analyzing frame 48 from client client_20251219_134712
+2025-12-19 13:48:01 - proctoring_server - WARNING - Frame 48: SUSPICIOUS - 1 violations
+2025-12-19 13:48:01 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:02 - proctoring_server - INFO - Analyzing frame 49 from client client_20251219_134712
+2025-12-19 13:48:02 - proctoring_server - WARNING - Frame 49: SUSPICIOUS - 1 violations
+2025-12-19 13:48:02 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:03 - proctoring_server - INFO - Analyzing frame 50 from client client_20251219_134712
+2025-12-19 13:48:03 - proctoring_server - WARNING - Frame 50: SUSPICIOUS - 1 violations
+2025-12-19 13:48:03 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:04 - proctoring_server - INFO - Analyzing frame 51 from client client_20251219_134712
+2025-12-19 13:48:04 - proctoring_server - WARNING - Frame 51: SUSPICIOUS - 1 violations
+2025-12-19 13:48:04 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:05 - proctoring_server - INFO - Analyzing frame 52 from client client_20251219_134712
+2025-12-19 13:48:05 - proctoring_server - WARNING - Frame 52: SUSPICIOUS - 1 violations
+2025-12-19 13:48:05 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:06 - proctoring_server - INFO - Analyzing frame 53 from client client_20251219_134712
+2025-12-19 13:48:06 - proctoring_server - WARNING - Frame 53: SUSPICIOUS - 1 violations
+2025-12-19 13:48:06 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:07 - proctoring_server - INFO - Analyzing frame 54 from client client_20251219_134712
+2025-12-19 13:48:07 - proctoring_server - WARNING - Frame 54: SUSPICIOUS - 1 violations
+2025-12-19 13:48:07 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:08 - proctoring_server - INFO - Analyzing frame 55 from client client_20251219_134712
+2025-12-19 13:48:08 - proctoring_server - WARNING - Frame 55: SUSPICIOUS - 1 violations
+2025-12-19 13:48:08 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:09 - proctoring_server - INFO - Analyzing frame 56 from client client_20251219_134712
+2025-12-19 13:48:09 - proctoring_server - WARNING - Frame 56: SUSPICIOUS - 1 violations
+2025-12-19 13:48:09 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:10 - proctoring_server - INFO - Analyzing frame 57 from client client_20251219_134712
+2025-12-19 13:48:10 - proctoring_server - WARNING - Frame 57: SUSPICIOUS - 1 violations
+2025-12-19 13:48:10 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:11 - proctoring_server - INFO - Analyzing frame 58 from client client_20251219_134712
+2025-12-19 13:48:11 - proctoring_server - WARNING - Frame 58: SUSPICIOUS - 1 violations
+2025-12-19 13:48:11 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:12 - proctoring_server - INFO - Analyzing frame 59 from client client_20251219_134712
+2025-12-19 13:48:12 - proctoring_server - WARNING - Frame 59: SUSPICIOUS - 1 violations
+2025-12-19 13:48:12 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:13 - proctoring_server - INFO - Analyzing frame 60 from client client_20251219_134712
+2025-12-19 13:48:13 - proctoring_server - WARNING - Frame 60: SUSPICIOUS - 1 violations
+2025-12-19 13:48:13 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:14 - proctoring_server - INFO - Analyzing frame 61 from client client_20251219_134712
+2025-12-19 13:48:14 - proctoring_server - WARNING - Frame 61: SUSPICIOUS - 1 violations
+2025-12-19 13:48:14 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:15 - proctoring_server - INFO - Analyzing frame 62 from client client_20251219_134712
+2025-12-19 13:48:15 - proctoring_server - WARNING - Frame 62: SUSPICIOUS - 1 violations
+2025-12-19 13:48:15 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:16 - proctoring_server - INFO - Analyzing frame 63 from client client_20251219_134712
+2025-12-19 13:48:16 - proctoring_server - WARNING - Frame 63: SUSPICIOUS - 1 violations
+2025-12-19 13:48:16 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:17 - proctoring_server - INFO - Analyzing frame 64 from client client_20251219_134712
+2025-12-19 13:48:17 - proctoring_server - WARNING - Frame 64: SUSPICIOUS - 1 violations
+2025-12-19 13:48:17 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:18 - proctoring_server - INFO - Analyzing frame 65 from client client_20251219_134712
+2025-12-19 13:48:18 - proctoring_server - WARNING - Frame 65: SUSPICIOUS - 1 violations
+2025-12-19 13:48:18 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:19 - proctoring_server - INFO - Analyzing frame 66 from client client_20251219_134712
+2025-12-19 13:48:19 - proctoring_server - WARNING - Frame 66: SUSPICIOUS - 1 violations
+2025-12-19 13:48:19 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:20 - proctoring_server - INFO - Analyzing frame 67 from client client_20251219_134712
+2025-12-19 13:48:20 - proctoring_server - WARNING - Frame 67: SUSPICIOUS - 1 violations
+2025-12-19 13:48:20 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:21 - proctoring_server - INFO - Analyzing frame 68 from client client_20251219_134712
+2025-12-19 13:48:21 - proctoring_server - WARNING - Frame 68: SUSPICIOUS - 1 violations
+2025-12-19 13:48:21 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:22 - proctoring_server - INFO - Analyzing frame 69 from client client_20251219_134712
+2025-12-19 13:48:22 - proctoring_server - WARNING - Frame 69: SUSPICIOUS - 1 violations
+2025-12-19 13:48:22 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:23 - proctoring_server - INFO - Analyzing frame 70 from client client_20251219_134712
+2025-12-19 13:48:23 - proctoring_server - WARNING - Frame 70: SUSPICIOUS - 1 violations
+2025-12-19 13:48:23 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:24 - proctoring_server - INFO - Analyzing frame 71 from client client_20251219_134712
+2025-12-19 13:48:24 - proctoring_server - WARNING - Frame 71: SUSPICIOUS - 1 violations
+2025-12-19 13:48:24 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:25 - proctoring_server - INFO - Analyzing frame 72 from client client_20251219_134712
+2025-12-19 13:48:25 - proctoring_server - WARNING - Frame 72: SUSPICIOUS - 1 violations
+2025-12-19 13:48:25 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:26 - proctoring_server - INFO - Analyzing frame 73 from client client_20251219_134712
+2025-12-19 13:48:26 - proctoring_server - WARNING - Frame 73: SUSPICIOUS - 1 violations
+2025-12-19 13:48:26 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:27 - proctoring_server - INFO - Analyzing frame 74 from client client_20251219_134712
+2025-12-19 13:48:27 - proctoring_server - WARNING - Frame 74: SUSPICIOUS - 1 violations
+2025-12-19 13:48:27 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:28 - proctoring_server - INFO - Analyzing frame 75 from client client_20251219_134712
+2025-12-19 13:48:28 - proctoring_server - WARNING - Frame 75: SUSPICIOUS - 1 violations
+2025-12-19 13:48:28 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:29 - proctoring_server - INFO - Analyzing frame 76 from client client_20251219_134712
+2025-12-19 13:48:29 - proctoring_server - WARNING - Frame 76: SUSPICIOUS - 1 violations
+2025-12-19 13:48:29 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:30 - proctoring_server - INFO - Analyzing frame 77 from client client_20251219_134712
+2025-12-19 13:48:30 - proctoring_server - WARNING - Frame 77: SUSPICIOUS - 1 violations
+2025-12-19 13:48:30 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:31 - proctoring_server - INFO - Analyzing frame 78 from client client_20251219_134712
+2025-12-19 13:48:31 - proctoring_server - WARNING - Frame 78: SUSPICIOUS - 1 violations
+2025-12-19 13:48:31 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:32 - proctoring_server - INFO - Analyzing frame 79 from client client_20251219_134712
+2025-12-19 13:48:32 - proctoring_server - WARNING - Frame 79: SUSPICIOUS - 1 violations
+2025-12-19 13:48:32 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:33 - proctoring_server - INFO - Analyzing frame 80 from client client_20251219_134712
+2025-12-19 13:48:33 - proctoring_server - WARNING - Frame 80: SUSPICIOUS - 2 violations
+2025-12-19 13:48:33 - proctoring_server - WARNING -   - Head pose violation: Looking Right
+2025-12-19 13:48:33 - proctoring_server - WARNING -   - Eye tracking violation: Gaze LEFT
+2025-12-19 13:48:34 - proctoring_server - INFO - Analyzing frame 81 from client client_20251219_134712
+2025-12-19 13:48:34 - proctoring_server - WARNING - Frame 81: SUSPICIOUS - 2 violations
+2025-12-19 13:48:34 - proctoring_server - WARNING -   - Head pose violation: Looking Right
+2025-12-19 13:48:34 - proctoring_server - WARNING -   - Eye tracking violation: Gaze LEFT
+2025-12-19 13:48:35 - proctoring_server - INFO - Analyzing frame 82 from client client_20251219_134712
+2025-12-19 13:48:35 - proctoring_server - WARNING - Frame 82: SUSPICIOUS - 1 violations
+2025-12-19 13:48:35 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Up
+2025-12-19 13:48:36 - proctoring_server - INFO - Analyzing frame 83 from client client_20251219_134712
+2025-12-19 13:48:36 - proctoring_server - WARNING - Frame 83: SUSPICIOUS - 1 violations
+2025-12-19 13:48:36 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:37 - proctoring_server - INFO - Analyzing frame 84 from client client_20251219_134712
+2025-12-19 13:48:37 - proctoring_server - WARNING - Frame 84: SUSPICIOUS - 1 violations
+2025-12-19 13:48:37 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:38 - proctoring_server - INFO - Analyzing frame 85 from client client_20251219_134712
+2025-12-19 13:48:38 - proctoring_server - WARNING - Frame 85: SUSPICIOUS - 1 violations
+2025-12-19 13:48:38 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Up
+2025-12-19 13:48:39 - proctoring_server - INFO - Analyzing frame 86 from client client_20251219_134712
+2025-12-19 13:48:39 - proctoring_server - WARNING - Frame 86: SUSPICIOUS - 1 violations
+2025-12-19 13:48:39 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:40 - proctoring_server - INFO - Analyzing frame 87 from client client_20251219_134712
+2025-12-19 13:48:40 - proctoring_server - WARNING - Frame 87: SUSPICIOUS - 1 violations
+2025-12-19 13:48:40 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:41 - proctoring_server - INFO - Analyzing frame 88 from client client_20251219_134712
+2025-12-19 13:48:41 - proctoring_server - WARNING - Frame 88: SUSPICIOUS - 1 violations
+2025-12-19 13:48:41 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:42 - proctoring_server - INFO - Analyzing frame 89 from client client_20251219_134712
+2025-12-19 13:48:42 - proctoring_server - WARNING - Frame 89: SUSPICIOUS - 1 violations
+2025-12-19 13:48:42 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:43 - proctoring_server - INFO - Analyzing frame 90 from client client_20251219_134712
+2025-12-19 13:48:43 - proctoring_server - WARNING - Frame 90: SUSPICIOUS - 1 violations
+2025-12-19 13:48:43 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:44 - proctoring_server - INFO - Analyzing frame 91 from client client_20251219_134712
+2025-12-19 13:48:44 - proctoring_server - WARNING - Frame 91: SUSPICIOUS - 1 violations
+2025-12-19 13:48:44 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:45 - proctoring_server - INFO - Analyzing frame 92 from client client_20251219_134712
+2025-12-19 13:48:45 - proctoring_server - WARNING - Frame 92: SUSPICIOUS - 2 violations
+2025-12-19 13:48:45 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:45 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:48:46 - proctoring_server - INFO - Analyzing frame 93 from client client_20251219_134712
+2025-12-19 13:48:46 - proctoring_server - WARNING - Frame 93: SUSPICIOUS - 1 violations
+2025-12-19 13:48:46 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:47 - proctoring_server - INFO - Analyzing frame 94 from client client_20251219_134712
+2025-12-19 13:48:47 - proctoring_server - WARNING - Frame 94: SUSPICIOUS - 1 violations
+2025-12-19 13:48:47 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:48:48 - proctoring_server - INFO - Analyzing frame 95 from client client_20251219_134712
+2025-12-19 13:48:48 - proctoring_server - WARNING - Frame 95: SUSPICIOUS - 1 violations
+2025-12-19 13:48:48 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:49 - proctoring_server - INFO - Analyzing frame 96 from client client_20251219_134712
+2025-12-19 13:48:49 - proctoring_server - WARNING - Frame 96: SUSPICIOUS - 1 violations
+2025-12-19 13:48:49 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:50 - proctoring_server - INFO - Analyzing frame 97 from client client_20251219_134712
+2025-12-19 13:48:50 - proctoring_server - WARNING - Frame 97: SUSPICIOUS - 1 violations
+2025-12-19 13:48:50 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:48:51 - proctoring_server - INFO - Analyzing frame 98 from client client_20251219_134712
+2025-12-19 13:48:51 - proctoring_server - INFO - Frame 98: Normal
+2025-12-19 13:48:52 - proctoring_server - INFO - Analyzing frame 99 from client client_20251219_134712
+2025-12-19 13:48:52 - proctoring_server - INFO - Frame 99: Normal
+2025-12-19 13:48:53 - proctoring_server - INFO - Analyzing frame 100 from client client_20251219_134712
+2025-12-19 13:48:53 - proctoring_server - INFO - Frame 100: Normal
+2025-12-19 13:48:54 - proctoring_server - INFO - Analyzing frame 101 from client client_20251219_134712
+2025-12-19 13:48:55 - proctoring_server - WARNING - Frame 101: SUSPICIOUS - 1 violations
+2025-12-19 13:48:55 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:55 - proctoring_server - INFO - Analyzing frame 102 from client client_20251219_134712
+2025-12-19 13:48:56 - proctoring_server - WARNING - Frame 102: SUSPICIOUS - 1 violations
+2025-12-19 13:48:56 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:56 - proctoring_server - INFO - Analyzing frame 103 from client client_20251219_134712
+2025-12-19 13:48:57 - proctoring_server - WARNING - Frame 103: SUSPICIOUS - 1 violations
+2025-12-19 13:48:57 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:58 - proctoring_server - INFO - Analyzing frame 104 from client client_20251219_134712
+2025-12-19 13:48:58 - proctoring_server - WARNING - Frame 104: SUSPICIOUS - 1 violations
+2025-12-19 13:48:58 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:48:59 - proctoring_server - INFO - Analyzing frame 105 from client client_20251219_134712
+2025-12-19 13:48:59 - proctoring_server - WARNING - Frame 105: SUSPICIOUS - 1 violations
+2025-12-19 13:48:59 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:00 - proctoring_server - INFO - Analyzing frame 106 from client client_20251219_134712
+2025-12-19 13:49:00 - proctoring_server - WARNING - Frame 106: SUSPICIOUS - 1 violations
+2025-12-19 13:49:00 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:01 - proctoring_server - INFO - Analyzing frame 107 from client client_20251219_134712
+2025-12-19 13:49:01 - proctoring_server - WARNING - Frame 107: SUSPICIOUS - 1 violations
+2025-12-19 13:49:01 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:02 - proctoring_server - INFO - Analyzing frame 108 from client client_20251219_134712
+2025-12-19 13:49:02 - proctoring_server - WARNING - Frame 108: SUSPICIOUS - 1 violations
+2025-12-19 13:49:02 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:03 - proctoring_server - INFO - Analyzing frame 109 from client client_20251219_134712
+2025-12-19 13:49:03 - proctoring_server - WARNING - Frame 109: SUSPICIOUS - 1 violations
+2025-12-19 13:49:03 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:04 - proctoring_server - INFO - Analyzing frame 110 from client client_20251219_134712
+2025-12-19 13:49:04 - proctoring_server - WARNING - Frame 110: SUSPICIOUS - 1 violations
+2025-12-19 13:49:04 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:05 - proctoring_server - INFO - Analyzing frame 111 from client client_20251219_134712
+2025-12-19 13:49:05 - proctoring_server - WARNING - Frame 111: SUSPICIOUS - 1 violations
+2025-12-19 13:49:05 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:06 - proctoring_server - INFO - Analyzing frame 112 from client client_20251219_134712
+2025-12-19 13:49:06 - proctoring_server - WARNING - Frame 112: SUSPICIOUS - 1 violations
+2025-12-19 13:49:06 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:07 - proctoring_server - INFO - Analyzing frame 113 from client client_20251219_134712
+2025-12-19 13:49:07 - proctoring_server - WARNING - Frame 113: SUSPICIOUS - 1 violations
+2025-12-19 13:49:07 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:08 - proctoring_server - INFO - Analyzing frame 114 from client client_20251219_134712
+2025-12-19 13:49:08 - proctoring_server - INFO - Frame 114: Normal
+2025-12-19 13:49:09 - proctoring_server - INFO - Analyzing frame 115 from client client_20251219_134712
+2025-12-19 13:49:09 - proctoring_server - WARNING - Frame 115: SUSPICIOUS - 1 violations
+2025-12-19 13:49:09 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:10 - proctoring_server - INFO - Analyzing frame 116 from client client_20251219_134712
+2025-12-19 13:49:10 - proctoring_server - WARNING - Frame 116: SUSPICIOUS - 1 violations
+2025-12-19 13:49:10 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:49:11 - proctoring_server - INFO - Analyzing frame 117 from client client_20251219_134712
+2025-12-19 13:49:11 - proctoring_server - WARNING - Frame 117: SUSPICIOUS - 1 violations
+2025-12-19 13:49:11 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:12 - proctoring_server - INFO - Analyzing frame 118 from client client_20251219_134712
+2025-12-19 13:49:12 - proctoring_server - WARNING - Frame 118: SUSPICIOUS - 1 violations
+2025-12-19 13:49:12 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:13 - proctoring_server - INFO - Analyzing frame 119 from client client_20251219_134712
+2025-12-19 13:49:13 - proctoring_server - WARNING - Frame 119: SUSPICIOUS - 1 violations
+2025-12-19 13:49:13 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:14 - proctoring_server - INFO - Analyzing frame 120 from client client_20251219_134712
+2025-12-19 13:49:14 - proctoring_server - WARNING - Frame 120: SUSPICIOUS - 1 violations
+2025-12-19 13:49:14 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:15 - proctoring_server - INFO - Analyzing frame 121 from client client_20251219_134712
+2025-12-19 13:49:15 - proctoring_server - WARNING - Frame 121: SUSPICIOUS - 1 violations
+2025-12-19 13:49:15 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:16 - proctoring_server - INFO - Analyzing frame 122 from client client_20251219_134712
+2025-12-19 13:49:16 - proctoring_server - WARNING - Frame 122: SUSPICIOUS - 1 violations
+2025-12-19 13:49:16 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:17 - proctoring_server - INFO - Analyzing frame 123 from client client_20251219_134712
+2025-12-19 13:49:17 - proctoring_server - WARNING - Frame 123: SUSPICIOUS - 1 violations
+2025-12-19 13:49:17 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:18 - proctoring_server - INFO - Analyzing frame 124 from client client_20251219_134712
+2025-12-19 13:49:18 - proctoring_server - WARNING - Frame 124: SUSPICIOUS - 1 violations
+2025-12-19 13:49:18 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:19 - proctoring_server - INFO - Analyzing frame 125 from client client_20251219_134712
+2025-12-19 13:49:19 - proctoring_server - WARNING - Frame 125: SUSPICIOUS - 1 violations
+2025-12-19 13:49:19 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:49:20 - proctoring_server - INFO - Analyzing frame 126 from client client_20251219_134712
+2025-12-19 13:49:20 - proctoring_server - WARNING - Frame 126: SUSPICIOUS - 2 violations
+2025-12-19 13:49:20 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:49:20 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:49:21 - proctoring_server - INFO - Analyzing frame 127 from client client_20251219_134712
+2025-12-19 13:49:21 - proctoring_server - WARNING - Frame 127: SUSPICIOUS - 3 violations
+2025-12-19 13:49:21 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:21 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:21 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:22 - proctoring_server - INFO - Analyzing frame 128 from client client_20251219_134712
+2025-12-19 13:49:22 - proctoring_server - WARNING - Frame 128: SUSPICIOUS - 3 violations
+2025-12-19 13:49:22 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:22 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:22 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:23 - proctoring_server - INFO - Analyzing frame 129 from client client_20251219_134712
+2025-12-19 13:49:23 - proctoring_server - WARNING - Frame 129: SUSPICIOUS - 3 violations
+2025-12-19 13:49:23 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:23 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:23 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:24 - proctoring_server - INFO - Analyzing frame 130 from client client_20251219_134712
+2025-12-19 13:49:24 - proctoring_server - WARNING - Frame 130: SUSPICIOUS - 3 violations
+2025-12-19 13:49:24 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:24 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:24 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:25 - proctoring_server - INFO - Analyzing frame 131 from client client_20251219_134712
+2025-12-19 13:49:25 - proctoring_server - WARNING - Frame 131: SUSPICIOUS - 3 violations
+2025-12-19 13:49:25 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:25 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:25 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:26 - proctoring_server - INFO - Analyzing frame 132 from client client_20251219_134712
+2025-12-19 13:49:26 - proctoring_server - WARNING - Frame 132: SUSPICIOUS - 3 violations
+2025-12-19 13:49:26 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:26 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:26 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:27 - proctoring_server - INFO - Analyzing frame 133 from client client_20251219_134712
+2025-12-19 13:49:27 - proctoring_server - WARNING - Frame 133: SUSPICIOUS - 3 violations
+2025-12-19 13:49:27 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:27 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:27 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:28 - proctoring_server - INFO - Analyzing frame 134 from client client_20251219_134712
+2025-12-19 13:49:28 - proctoring_server - WARNING - Frame 134: SUSPICIOUS - 3 violations
+2025-12-19 13:49:28 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:28 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:28 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:29 - proctoring_server - INFO - Analyzing frame 135 from client client_20251219_134712
+2025-12-19 13:49:29 - proctoring_server - WARNING - Frame 135: SUSPICIOUS - 3 violations
+2025-12-19 13:49:29 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:29 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:29 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:30 - proctoring_server - INFO - Analyzing frame 136 from client client_20251219_134712
+2025-12-19 13:49:30 - proctoring_server - WARNING - Frame 136: SUSPICIOUS - 3 violations
+2025-12-19 13:49:30 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:30 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:30 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:31 - proctoring_server - INFO - Analyzing frame 137 from client client_20251219_134712
+2025-12-19 13:49:31 - proctoring_server - WARNING - Frame 137: SUSPICIOUS - 3 violations
+2025-12-19 13:49:31 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:31 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:31 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:32 - proctoring_server - INFO - Analyzing frame 138 from client client_20251219_134712
+2025-12-19 13:49:32 - proctoring_server - WARNING - Frame 138: SUSPICIOUS - 3 violations
+2025-12-19 13:49:32 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:32 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:32 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:33 - proctoring_server - INFO - Analyzing frame 139 from client client_20251219_134712
+2025-12-19 13:49:33 - proctoring_server - WARNING - Frame 139: SUSPICIOUS - 3 violations
+2025-12-19 13:49:33 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:33 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:33 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:34 - proctoring_server - INFO - Analyzing frame 140 from client client_20251219_134712
+2025-12-19 13:49:34 - proctoring_server - WARNING - Frame 140: SUSPICIOUS - 3 violations
+2025-12-19 13:49:34 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:34 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:34 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:35 - proctoring_server - INFO - Analyzing frame 141 from client client_20251219_134712
+2025-12-19 13:49:35 - proctoring_server - WARNING - Frame 141: SUSPICIOUS - 3 violations
+2025-12-19 13:49:35 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:35 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:35 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:36 - proctoring_server - INFO - Analyzing frame 142 from client client_20251219_134712
+2025-12-19 13:49:36 - proctoring_server - WARNING - Frame 142: SUSPICIOUS - 3 violations
+2025-12-19 13:49:36 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:36 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:36 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:37 - proctoring_server - INFO - Analyzing frame 143 from client client_20251219_134712
+2025-12-19 13:49:37 - proctoring_server - WARNING - Frame 143: SUSPICIOUS - 3 violations
+2025-12-19 13:49:37 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:37 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:37 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:38 - proctoring_server - INFO - Analyzing frame 144 from client client_20251219_134712
+2025-12-19 13:49:38 - proctoring_server - WARNING - Frame 144: SUSPICIOUS - 3 violations
+2025-12-19 13:49:38 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:38 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:38 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:39 - proctoring_server - INFO - Analyzing frame 145 from client client_20251219_134712
+2025-12-19 13:49:39 - proctoring_server - WARNING - Frame 145: SUSPICIOUS - 3 violations
+2025-12-19 13:49:39 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:39 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:39 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:40 - proctoring_server - INFO - Analyzing frame 146 from client client_20251219_134712
+2025-12-19 13:49:40 - proctoring_server - WARNING - Frame 146: SUSPICIOUS - 3 violations
+2025-12-19 13:49:40 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:40 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:40 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:41 - proctoring_server - INFO - Analyzing frame 147 from client client_20251219_134712
+2025-12-19 13:49:41 - proctoring_server - WARNING - Frame 147: SUSPICIOUS - 3 violations
+2025-12-19 13:49:41 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:41 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:41 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:42 - proctoring_server - INFO - Analyzing frame 148 from client client_20251219_134712
+2025-12-19 13:49:42 - proctoring_server - WARNING - Frame 148: SUSPICIOUS - 3 violations
+2025-12-19 13:49:42 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:42 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:42 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:43 - proctoring_server - INFO - Analyzing frame 149 from client client_20251219_134712
+2025-12-19 13:49:43 - proctoring_server - WARNING - Frame 149: SUSPICIOUS - 3 violations
+2025-12-19 13:49:43 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:43 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:43 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:44 - proctoring_server - INFO - Analyzing frame 150 from client client_20251219_134712
+2025-12-19 13:49:44 - proctoring_server - WARNING - Frame 150: SUSPICIOUS - 3 violations
+2025-12-19 13:49:44 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:44 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:44 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:45 - proctoring_server - INFO - Analyzing frame 151 from client client_20251219_134712
+2025-12-19 13:49:45 - proctoring_server - WARNING - Frame 151: SUSPICIOUS - 3 violations
+2025-12-19 13:49:45 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:45 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:45 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:46 - proctoring_server - INFO - Analyzing frame 152 from client client_20251219_134712
+2025-12-19 13:49:46 - proctoring_server - WARNING - Frame 152: SUSPICIOUS - 3 violations
+2025-12-19 13:49:46 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:46 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:46 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:47 - proctoring_server - INFO - Analyzing frame 153 from client client_20251219_134712
+2025-12-19 13:49:47 - proctoring_server - WARNING - Frame 153: SUSPICIOUS - 3 violations
+2025-12-19 13:49:47 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:47 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:47 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:48 - proctoring_server - INFO - Analyzing frame 154 from client client_20251219_134712
+2025-12-19 13:49:48 - proctoring_server - WARNING - Frame 154: SUSPICIOUS - 3 violations
+2025-12-19 13:49:48 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:48 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:48 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:49 - proctoring_server - INFO - Analyzing frame 155 from client client_20251219_134712
+2025-12-19 13:49:49 - proctoring_server - WARNING - Frame 155: SUSPICIOUS - 3 violations
+2025-12-19 13:49:49 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:49 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:49 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:50 - proctoring_server - INFO - Analyzing frame 156 from client client_20251219_134712
+2025-12-19 13:49:50 - proctoring_server - WARNING - Frame 156: SUSPICIOUS - 3 violations
+2025-12-19 13:49:50 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:49:50 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:49:50 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:49:51 - proctoring_server - INFO - Analyzing frame 157 from client client_20251219_134712
+2025-12-19 13:49:52 - proctoring_server - INFO - Frame 157: Normal
+2025-12-19 13:49:52 - proctoring_server - INFO - Analyzing frame 158 from client client_20251219_134712
+2025-12-19 13:49:53 - proctoring_server - WARNING - Frame 158: SUSPICIOUS - 1 violations
+2025-12-19 13:49:53 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:49:54 - proctoring_server - INFO - Analyzing frame 159 from client client_20251219_134712
+2025-12-19 13:49:54 - proctoring_server - WARNING - Frame 159: SUSPICIOUS - 1 violations
+2025-12-19 13:49:54 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:55 - proctoring_server - INFO - Analyzing frame 160 from client client_20251219_134712
+2025-12-19 13:49:55 - proctoring_server - WARNING - Frame 160: SUSPICIOUS - 1 violations
+2025-12-19 13:49:55 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:56 - proctoring_server - INFO - Analyzing frame 161 from client client_20251219_134712
+2025-12-19 13:49:56 - proctoring_server - WARNING - Frame 161: SUSPICIOUS - 1 violations
+2025-12-19 13:49:56 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:57 - proctoring_server - INFO - Analyzing frame 162 from client client_20251219_134712
+2025-12-19 13:49:57 - proctoring_server - WARNING - Frame 162: SUSPICIOUS - 1 violations
+2025-12-19 13:49:57 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:49:58 - proctoring_server - INFO - Analyzing frame 163 from client client_20251219_134712
+2025-12-19 13:49:58 - proctoring_server - INFO - Frame 163: Normal
+2025-12-19 13:49:59 - proctoring_server - INFO - Analyzing frame 164 from client client_20251219_134712
+2025-12-19 13:49:59 - proctoring_server - INFO - Frame 164: Normal
+2025-12-19 13:50:00 - proctoring_server - INFO - Analyzing frame 165 from client client_20251219_134712
+2025-12-19 13:50:00 - proctoring_server - INFO - Frame 165: Normal
+2025-12-19 13:50:01 - proctoring_server - INFO - Analyzing frame 166 from client client_20251219_134712
+2025-12-19 13:50:01 - proctoring_server - INFO - Frame 166: Normal
+2025-12-19 13:50:02 - proctoring_server - INFO - Analyzing frame 167 from client client_20251219_134712
+2025-12-19 13:50:02 - proctoring_server - INFO - Frame 167: Normal
+2025-12-19 13:50:03 - proctoring_server - INFO - Analyzing frame 168 from client client_20251219_134712
+2025-12-19 13:50:03 - proctoring_server - INFO - Frame 168: Normal
+2025-12-19 13:50:04 - proctoring_server - INFO - Analyzing frame 169 from client client_20251219_134712
+2025-12-19 13:50:04 - proctoring_server - WARNING - Frame 169: SUSPICIOUS - 1 violations
+2025-12-19 13:50:04 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:50:05 - proctoring_server - INFO - Analyzing frame 170 from client client_20251219_134712
+2025-12-19 13:50:05 - proctoring_server - WARNING - Frame 170: SUSPICIOUS - 1 violations
+2025-12-19 13:50:05 - proctoring_server - WARNING -   - Head pose violation: Looking Up
+2025-12-19 13:50:06 - proctoring_server - INFO - Analyzing frame 171 from client client_20251219_134712
+2025-12-19 13:50:06 - proctoring_server - INFO - Frame 171: Normal
+2025-12-19 13:50:07 - proctoring_server - INFO - Analyzing frame 172 from client client_20251219_134712
+2025-12-19 13:50:07 - proctoring_server - INFO - Frame 172: Normal
+2025-12-19 13:50:08 - proctoring_server - INFO - Analyzing frame 173 from client client_20251219_134712
+2025-12-19 13:50:08 - proctoring_server - INFO - Frame 173: Normal
+2025-12-19 13:50:09 - proctoring_server - INFO - Analyzing frame 174 from client client_20251219_134712
+2025-12-19 13:50:09 - proctoring_server - INFO - Frame 174: Normal
+2025-12-19 13:50:10 - proctoring_server - INFO - Analyzing frame 175 from client client_20251219_134712
+2025-12-19 13:50:10 - proctoring_server - INFO - Frame 175: Normal
+2025-12-19 13:50:11 - proctoring_server - INFO - Analyzing frame 176 from client client_20251219_134712
+2025-12-19 13:50:11 - proctoring_server - INFO - Frame 176: Normal
+2025-12-19 13:50:12 - proctoring_server - INFO - Analyzing frame 177 from client client_20251219_134712
+2025-12-19 13:50:12 - proctoring_server - INFO - Frame 177: Normal
+2025-12-19 13:50:13 - proctoring_server - INFO - Analyzing frame 178 from client client_20251219_134712
+2025-12-19 13:50:13 - proctoring_server - INFO - Frame 178: Normal
+2025-12-19 13:50:14 - proctoring_server - INFO - Analyzing frame 179 from client client_20251219_134712
+2025-12-19 13:50:14 - proctoring_server - INFO - Frame 179: Normal
+2025-12-19 13:50:15 - proctoring_server - INFO - Analyzing frame 180 from client client_20251219_134712
+2025-12-19 13:50:15 - proctoring_server - INFO - Frame 180: Normal
+2025-12-19 13:50:16 - proctoring_server - INFO - Analyzing frame 181 from client client_20251219_134712
+2025-12-19 13:50:16 - proctoring_server - WARNING - Frame 181: SUSPICIOUS - 2 violations
+2025-12-19 13:50:16 - proctoring_server - WARNING -   - Head pose violation: Looking Right
+2025-12-19 13:50:16 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:50:17 - proctoring_server - INFO - Analyzing frame 182 from client client_20251219_134712
+2025-12-19 13:50:17 - proctoring_server - WARNING - Frame 182: SUSPICIOUS - 1 violations
+2025-12-19 13:50:17 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Down
+2025-12-19 13:50:18 - proctoring_server - INFO - Analyzing frame 183 from client client_20251219_134712
+2025-12-19 13:50:18 - proctoring_server - WARNING - Frame 183: SUSPICIOUS - 2 violations
+2025-12-19 13:50:18 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:50:18 - proctoring_server - WARNING -   - Eye tracking violation: Gaze DOWN
+2025-12-19 13:50:19 - proctoring_server - INFO - Analyzing frame 184 from client client_20251219_134712
+2025-12-19 13:50:19 - proctoring_server - WARNING - Frame 184: SUSPICIOUS - 1 violations
+2025-12-19 13:50:19 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Down
+2025-12-19 13:50:20 - proctoring_server - INFO - Analyzing frame 185 from client client_20251219_134712
+2025-12-19 13:50:20 - proctoring_server - WARNING - Frame 185: SUSPICIOUS - 1 violations
+2025-12-19 13:50:20 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:50:21 - proctoring_server - INFO - Analyzing frame 186 from client client_20251219_134712
+2025-12-19 13:50:21 - proctoring_server - WARNING - Frame 186: SUSPICIOUS - 2 violations
+2025-12-19 13:50:21 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:50:21 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:50:22 - proctoring_server - INFO - Analyzing frame 187 from client client_20251219_134712
+2025-12-19 13:50:22 - proctoring_server - WARNING - Frame 187: SUSPICIOUS - 1 violations
+2025-12-19 13:50:22 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:50:23 - proctoring_server - INFO - Analyzing frame 188 from client client_20251219_134712
+2025-12-19 13:50:23 - proctoring_server - WARNING - Frame 188: SUSPICIOUS - 1 violations
+2025-12-19 13:50:23 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:50:24 - proctoring_server - INFO - Analyzing frame 189 from client client_20251219_134712
+2025-12-19 13:50:24 - proctoring_server - WARNING - Frame 189: SUSPICIOUS - 2 violations
+2025-12-19 13:50:24 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Down
+2025-12-19 13:50:24 - proctoring_server - WARNING -   - Eye tracking violation: Gaze RIGHT
+2025-12-19 13:50:25 - proctoring_server - INFO - Analyzing frame 190 from client client_20251219_134712
+2025-12-19 13:50:25 - proctoring_server - WARNING - Frame 190: SUSPICIOUS - 1 violations
+2025-12-19 13:50:25 - proctoring_server - WARNING -   - Head pose violation: Looking Right + Down
+2025-12-19 13:50:26 - proctoring_server - INFO - Analyzing frame 191 from client client_20251219_134712
+2025-12-19 13:50:26 - proctoring_server - INFO - Frame 191: Normal
+2025-12-19 13:50:27 - proctoring_server - INFO - Analyzing frame 192 from client client_20251219_134712
+2025-12-19 13:50:27 - proctoring_server - WARNING - Frame 192: SUSPICIOUS - 1 violations
+2025-12-19 13:50:27 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:50:28 - proctoring_server - INFO - Analyzing frame 193 from client client_20251219_134712
+2025-12-19 13:50:28 - proctoring_server - INFO - Frame 193: Normal
+2025-12-19 13:50:29 - proctoring_server - INFO - Analyzing frame 194 from client client_20251219_134712
+2025-12-19 13:50:29 - proctoring_server - WARNING - Frame 194: SUSPICIOUS - 1 violations
+2025-12-19 13:50:29 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:50:30 - proctoring_server - INFO - Analyzing frame 195 from client client_20251219_134712
+2025-12-19 13:50:30 - proctoring_server - WARNING - Frame 195: SUSPICIOUS - 1 violations
+2025-12-19 13:50:30 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Up
+2025-12-19 13:50:31 - proctoring_server - INFO - Analyzing frame 196 from client client_20251219_134712
+2025-12-19 13:50:31 - proctoring_server - WARNING - Frame 196: SUSPICIOUS - 1 violations
+2025-12-19 13:50:31 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:12 - proctoring_server - INFO - Analyzing frame 197 from client client_20251219_135111
+2025-12-19 13:51:12 - proctoring_server - WARNING - Frame 197: SUSPICIOUS - 3 violations
+2025-12-19 13:51:12 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:51:12 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:51:12 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:51:13 - proctoring_server - INFO - Analyzing frame 198 from client client_20251219_135111
+2025-12-19 13:51:13 - proctoring_server - WARNING - Frame 198: SUSPICIOUS - 1 violations
+2025-12-19 13:51:13 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:14 - proctoring_server - INFO - Analyzing frame 199 from client client_20251219_135111
+2025-12-19 13:51:14 - proctoring_server - WARNING - Frame 199: SUSPICIOUS - 1 violations
+2025-12-19 13:51:14 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:15 - proctoring_server - INFO - Analyzing frame 200 from client client_20251219_135111
+2025-12-19 13:51:15 - proctoring_server - INFO - Frame 200: Normal
+2025-12-19 13:51:16 - proctoring_server - INFO - Analyzing frame 201 from client client_20251219_135111
+2025-12-19 13:51:16 - proctoring_server - WARNING - Frame 201: SUSPICIOUS - 1 violations
+2025-12-19 13:51:16 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:17 - proctoring_server - INFO - Analyzing frame 202 from client client_20251219_135111
+2025-12-19 13:51:17 - proctoring_server - WARNING - Frame 202: SUSPICIOUS - 1 violations
+2025-12-19 13:51:17 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:18 - proctoring_server - INFO - Analyzing frame 203 from client client_20251219_135111
+2025-12-19 13:51:18 - proctoring_server - WARNING - Frame 203: SUSPICIOUS - 1 violations
+2025-12-19 13:51:18 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:19 - proctoring_server - INFO - Analyzing frame 204 from client client_20251219_135111
+2025-12-19 13:51:19 - proctoring_server - WARNING - Frame 204: SUSPICIOUS - 1 violations
+2025-12-19 13:51:19 - proctoring_server - WARNING -   - Head pose violation: Looking Left
+2025-12-19 13:51:20 - proctoring_server - INFO - Analyzing frame 205 from client client_20251219_135111
+2025-12-19 13:51:20 - proctoring_server - INFO - Frame 205: Normal
+2025-12-19 13:51:21 - proctoring_server - INFO - Analyzing frame 206 from client client_20251219_135111
+2025-12-19 13:51:21 - proctoring_server - INFO - Frame 206: Normal
+2025-12-19 13:51:22 - proctoring_server - INFO - Analyzing frame 207 from client client_20251219_135111
+2025-12-19 13:51:22 - proctoring_server - INFO - Frame 207: Normal
+2025-12-19 13:51:23 - proctoring_server - INFO - Analyzing frame 208 from client client_20251219_135111
+2025-12-19 13:51:23 - proctoring_server - INFO - Frame 208: Normal
+2025-12-19 13:51:24 - proctoring_server - INFO - Analyzing frame 209 from client client_20251219_135111
+2025-12-19 13:51:24 - proctoring_server - WARNING - Frame 209: SUSPICIOUS - 2 violations
+2025-12-19 13:51:24 - proctoring_server - WARNING -   - Object violation: Phone detected
+2025-12-19 13:51:24 - proctoring_server - WARNING -   - Object violation: cell phone
+2025-12-19 13:51:25 - proctoring_server - INFO - Analyzing frame 210 from client client_20251219_135111
+2025-12-19 13:51:25 - proctoring_server - WARNING - Frame 210: SUSPICIOUS - 3 violations
+2025-12-19 13:51:25 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:51:25 - proctoring_server - WARNING -   - Object violation: Phone detected
+2025-12-19 13:51:25 - proctoring_server - WARNING -   - Object violation: cell phone
+2025-12-19 13:51:26 - proctoring_server - INFO - Analyzing frame 211 from client client_20251219_135111
+2025-12-19 13:51:26 - proctoring_server - WARNING - Frame 211: SUSPICIOUS - 3 violations
+2025-12-19 13:51:26 - proctoring_server - WARNING -   - Head pose violation: Looking Down
+2025-12-19 13:51:26 - proctoring_server - WARNING -   - Object violation: Phone detected
+2025-12-19 13:51:26 - proctoring_server - WARNING -   - Object violation: cell phone
+2025-12-19 13:51:27 - proctoring_server - INFO - Analyzing frame 212 from client client_20251219_135111
+2025-12-19 13:51:27 - proctoring_server - WARNING - Frame 212: SUSPICIOUS - 1 violations
+2025-12-19 13:51:27 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:51:28 - proctoring_server - INFO - Analyzing frame 213 from client client_20251219_135111
+2025-12-19 13:51:28 - proctoring_server - WARNING - Frame 213: SUSPICIOUS - 1 violations
+2025-12-19 13:51:28 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:51:29 - proctoring_server - INFO - Analyzing frame 214 from client client_20251219_135111
+2025-12-19 13:51:30 - proctoring_server - WARNING - Frame 214: SUSPICIOUS - 1 violations
+2025-12-19 13:51:30 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:51:30 - proctoring_server - INFO - Analyzing frame 215 from client client_20251219_135111
+2025-12-19 13:51:30 - proctoring_server - WARNING - Frame 215: SUSPICIOUS - 1 violations
+2025-12-19 13:51:30 - proctoring_server - WARNING -   - Head pose violation: Looking Left + Down
+2025-12-19 13:52:12 - proctoring_server - INFO - Cleaning up server resources...
+2025-12-19 13:52:12 - proctoring_server - INFO - Session statistics:
+2025-12-19 13:52:12 - proctoring_server - INFO -   Total frames analyzed: 215
+2025-12-19 13:52:12 - proctoring_server - INFO -   Suspicious frames: 165
+2025-12-19 13:52:12 - proctoring_server - INFO -   Normal frames: 50
+2025-12-19 13:52:12 - proctoring_server - INFO -   Uptime: 306.1 seconds
+2025-12-19 13:52:12 - proctoring_server - INFO - Server cleanup complete!
+2025-12-19 13:53:56 - proctoring_server - INFO - Initializing Proctoring Server...
+2025-12-19 13:53:56 - proctoring_server - INFO - Server initialization complete!
+2025-12-19 13:54:18 - proctoring_server - INFO - Analyzing frame 1 from client test_client_001
+2025-12-19 13:54:18 - proctoring_server - WARNING - Frame 1: SUSPICIOUS - 3 violations
+2025-12-19 13:54:18 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:54:18 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:54:18 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:54:19 - proctoring_server - INFO - Analyzing frame 2 from client test_client_001
+2025-12-19 13:54:19 - proctoring_server - WARNING - Frame 2: SUSPICIOUS - 3 violations
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:54:19 - proctoring_server - INFO - Analyzing frame 3 from client test_client_001
+2025-12-19 13:54:19 - proctoring_server - WARNING - Frame 3: SUSPICIOUS - 3 violations
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:54:19 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:54:20 - proctoring_server - INFO - Analyzing frame 4 from client test_client_001
+2025-12-19 13:54:20 - proctoring_server - WARNING - Frame 4: SUSPICIOUS - 3 violations
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:54:20 - proctoring_server - INFO - Analyzing frame 5 from client test_client_001
+2025-12-19 13:54:20 - proctoring_server - WARNING - Frame 5: SUSPICIOUS - 3 violations
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Head pose violation: Looking No Face Detected
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Eye tracking violation: Gaze No Eyes Detected
+2025-12-19 13:54:20 - proctoring_server - WARNING -   - Face count violation: 0 face(s) detected
+2025-12-19 13:54:21 - proctoring_server - INFO - Statistics requested
+2025-12-19 13:54:27 - proctoring_server - INFO - Cleaning up server resources...
+2025-12-19 13:54:27 - proctoring_server - INFO - Session statistics:
+2025-12-19 13:54:27 - proctoring_server - INFO -   Total frames analyzed: 5
+2025-12-19 13:54:27 - proctoring_server - INFO -   Suspicious frames: 5
+2025-12-19 13:54:27 - proctoring_server - INFO -   Normal frames: 0
+2025-12-19 13:54:27 - proctoring_server - INFO -   Uptime: 31.1 seconds
+2025-12-19 13:54:27 - proctoring_server - INFO - Server cleanup complete!

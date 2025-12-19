@@ -1,0 +1,30 @@
+{
+  "image_path": "sample_images/webcam_capture.jpg",
+  "timestamp": "2025-12-19 13:10:15",
+  "violations": [
+    "Head pose violation: Looking No Face Detected",
+    "Eye tracking violation: Gaze No Eyes Detected",
+    "Face count violation: 0 face(s) detected"
+  ],
+  "analysis": {
+    "head_pose": {
+      "direction": "No Face Detected",
+      "is_suspicious": true,
+      "confidence": 0.0
+    },
+    "eye_tracking": {
+      "gaze_direction": "No Eyes Detected",
+      "is_suspicious": true,
+      "confidence": 0.0
+    },
+    "object_detection": {
+      "num_faces": 0,
+      "num_hands": 0,
+      "phone_detected": false,
+      "detected_objects": [],
+      "is_suspicious": true
+    }
+  },
+  "is_suspicious": true,
+  "output_image": "results/webcam_capture_analyzed.jpg"
+}

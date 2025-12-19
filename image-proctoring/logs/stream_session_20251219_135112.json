@@ -1,0 +1,536 @@
+{
+  "session_start": "2025-12-19 13:51:12",
+  "session_end": "2025-12-19 13:51:31",
+  "duration_seconds": 18.452879,
+  "total_frames": 19,
+  "suspicious_frames": 14,
+  "normal_frames": 5,
+  "unique_violations": [
+    "Head pose violation: Looking No Face Detected",
+    "Eye tracking violation: Gaze No Eyes Detected",
+    "Face count violation: 0 face(s) detected",
+    "Head pose violation: Looking Left",
+    "Object violation: Phone detected",
+    "Object violation: cell phone",
+    "Head pose violation: Looking Down",
+    "Head pose violation: Looking Left + Down"
+  ],
+  "frame_log": [
+    {
+      "frame_number": 1,
+      "timestamp": "2025-12-19 13:51:12",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.0,
+          "gaze_direction": "No Eyes Detected",
+          "is_suspicious": true
+        },
+        "head_pose": {
+          "confidence": 0.0,
+          "direction": "No Face Detected",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": true,
+          "num_faces": 0,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 2,
+      "timestamp": "2025-12-19 13:51:13",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 3,
+      "timestamp": "2025-12-19 13:51:14",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 4,
+      "timestamp": "2025-12-19 13:51:15",
+      "is_suspicious": false,
+      "violations": [],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 5,
+      "timestamp": "2025-12-19 13:51:16",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 6,
+      "timestamp": "2025-12-19 13:51:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 7,
+      "timestamp": "2025-12-19 13:51:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 8,
+      "timestamp": "2025-12-19 13:51:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 9,
+      "timestamp": "2025-12-19 13:51:20",
+      "is_suspicious": false,
+      "violations": [],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 10,
+      "timestamp": "2025-12-19 13:51:21",
+      "is_suspicious": false,
+      "violations": [],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 11,
+      "timestamp": "2025-12-19 13:51:22",
+      "is_suspicious": false,
+      "violations": [],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 12,
+      "timestamp": "2025-12-19 13:51:23",
+      "is_suspicious": false,
+      "violations": [],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 13,
+      "timestamp": "2025-12-19 13:51:24",
+      "is_suspicious": true,
+      "violations": [
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Forward",
+          "is_suspicious": false
+        },
+        "object_detection": {
+          "detected_objects": [
+            "cell phone"
+          ],
+          "is_suspicious": true,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": true
+        }
+      }
+    },
+    {
+      "frame_number": 14,
+      "timestamp": "2025-12-19 13:51:25",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [
+            "cell phone"
+          ],
+          "is_suspicious": true,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": true
+        }
+      }
+    },
+    {
+      "frame_number": 15,
+      "timestamp": "2025-12-19 13:51:26",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [
+            "cell phone"
+          ],
+          "is_suspicious": true,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": true
+        }
+      }
+    },
+    {
+      "frame_number": 16,
+      "timestamp": "2025-12-19 13:51:27",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left + Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 17,
+      "timestamp": "2025-12-19 13:51:28",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left + Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 18,
+      "timestamp": "2025-12-19 13:51:29",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left + Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    },
+    {
+      "frame_number": 19,
+      "timestamp": "2025-12-19 13:51:30",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "analysis": {
+        "eye_tracking": {
+          "confidence": 0.95,
+          "gaze_direction": "CENTER",
+          "is_suspicious": false
+        },
+        "head_pose": {
+          "confidence": 0.95,
+          "direction": "Left + Down",
+          "is_suspicious": true
+        },
+        "object_detection": {
+          "detected_objects": [],
+          "is_suspicious": false,
+          "num_faces": 1,
+          "num_hands": 0,
+          "phone_detected": false
+        }
+      }
+    }
+  ]
+}

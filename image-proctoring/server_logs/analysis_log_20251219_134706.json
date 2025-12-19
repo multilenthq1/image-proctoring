@@ -1,0 +1,1921 @@
+{
+  "session_start": "2025-12-19 13:47:06",
+  "total_frames": 215,
+  "suspicious_frames": 165,
+  "normal_frames": 50,
+  "analysis_log": [
+    {
+      "frame_id": 1,
+      "timestamp": "2025-12-19 13:47:13",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 2,
+      "timestamp": "2025-12-19 13:47:14",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 3,
+      "timestamp": "2025-12-19 13:47:15",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 4,
+      "timestamp": "2025-12-19 13:47:16",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 5,
+      "timestamp": "2025-12-19 13:47:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 6,
+      "timestamp": "2025-12-19 13:47:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 7,
+      "timestamp": "2025-12-19 13:47:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 8,
+      "timestamp": "2025-12-19 13:47:20",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 9,
+      "timestamp": "2025-12-19 13:47:21",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 10,
+      "timestamp": "2025-12-19 13:47:22",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 11,
+      "timestamp": "2025-12-19 13:47:23",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 12,
+      "timestamp": "2025-12-19 13:47:24",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 13,
+      "timestamp": "2025-12-19 13:47:25",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 14,
+      "timestamp": "2025-12-19 13:47:26",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 15,
+      "timestamp": "2025-12-19 13:47:27",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 16,
+      "timestamp": "2025-12-19 13:47:28",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 17,
+      "timestamp": "2025-12-19 13:47:29",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 18,
+      "timestamp": "2025-12-19 13:47:30",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 19,
+      "timestamp": "2025-12-19 13:47:31",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 20,
+      "timestamp": "2025-12-19 13:47:32",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 21,
+      "timestamp": "2025-12-19 13:47:33",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 22,
+      "timestamp": "2025-12-19 13:47:34",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 23,
+      "timestamp": "2025-12-19 13:47:35",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 24,
+      "timestamp": "2025-12-19 13:47:36",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 25,
+      "timestamp": "2025-12-19 13:47:37",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 26,
+      "timestamp": "2025-12-19 13:47:38",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 27,
+      "timestamp": "2025-12-19 13:47:39",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 28,
+      "timestamp": "2025-12-19 13:47:40",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 29,
+      "timestamp": "2025-12-19 13:47:41",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 30,
+      "timestamp": "2025-12-19 13:47:42",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 31,
+      "timestamp": "2025-12-19 13:47:43",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 32,
+      "timestamp": "2025-12-19 13:47:44",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 33,
+      "timestamp": "2025-12-19 13:47:45",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 34,
+      "timestamp": "2025-12-19 13:47:46",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 35,
+      "timestamp": "2025-12-19 13:47:47",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 36,
+      "timestamp": "2025-12-19 13:47:48",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 37,
+      "timestamp": "2025-12-19 13:47:50",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 38,
+      "timestamp": "2025-12-19 13:47:51",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 39,
+      "timestamp": "2025-12-19 13:47:52",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 40,
+      "timestamp": "2025-12-19 13:47:53",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 41,
+      "timestamp": "2025-12-19 13:47:54",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 42,
+      "timestamp": "2025-12-19 13:47:55",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right",
+        "Eye tracking violation: Gaze LEFT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 43,
+      "timestamp": "2025-12-19 13:47:56",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 44,
+      "timestamp": "2025-12-19 13:47:57",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 45,
+      "timestamp": "2025-12-19 13:47:58",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 46,
+      "timestamp": "2025-12-19 13:47:59",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 47,
+      "timestamp": "2025-12-19 13:48:00",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 48,
+      "timestamp": "2025-12-19 13:48:01",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 49,
+      "timestamp": "2025-12-19 13:48:02",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 50,
+      "timestamp": "2025-12-19 13:48:03",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 51,
+      "timestamp": "2025-12-19 13:48:04",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 52,
+      "timestamp": "2025-12-19 13:48:05",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 53,
+      "timestamp": "2025-12-19 13:48:06",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 54,
+      "timestamp": "2025-12-19 13:48:07",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 55,
+      "timestamp": "2025-12-19 13:48:08",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 56,
+      "timestamp": "2025-12-19 13:48:09",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 57,
+      "timestamp": "2025-12-19 13:48:10",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 58,
+      "timestamp": "2025-12-19 13:48:11",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 59,
+      "timestamp": "2025-12-19 13:48:12",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 60,
+      "timestamp": "2025-12-19 13:48:13",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 61,
+      "timestamp": "2025-12-19 13:48:14",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 62,
+      "timestamp": "2025-12-19 13:48:15",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 63,
+      "timestamp": "2025-12-19 13:48:16",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 64,
+      "timestamp": "2025-12-19 13:48:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 65,
+      "timestamp": "2025-12-19 13:48:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 66,
+      "timestamp": "2025-12-19 13:48:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 67,
+      "timestamp": "2025-12-19 13:48:20",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 68,
+      "timestamp": "2025-12-19 13:48:21",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 69,
+      "timestamp": "2025-12-19 13:48:22",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 70,
+      "timestamp": "2025-12-19 13:48:23",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 71,
+      "timestamp": "2025-12-19 13:48:24",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 72,
+      "timestamp": "2025-12-19 13:48:25",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 73,
+      "timestamp": "2025-12-19 13:48:26",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 74,
+      "timestamp": "2025-12-19 13:48:27",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 75,
+      "timestamp": "2025-12-19 13:48:28",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 76,
+      "timestamp": "2025-12-19 13:48:29",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 77,
+      "timestamp": "2025-12-19 13:48:30",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 78,
+      "timestamp": "2025-12-19 13:48:31",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 79,
+      "timestamp": "2025-12-19 13:48:32",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 80,
+      "timestamp": "2025-12-19 13:48:33",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right",
+        "Eye tracking violation: Gaze LEFT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 81,
+      "timestamp": "2025-12-19 13:48:34",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right",
+        "Eye tracking violation: Gaze LEFT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 82,
+      "timestamp": "2025-12-19 13:48:35",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 83,
+      "timestamp": "2025-12-19 13:48:36",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 84,
+      "timestamp": "2025-12-19 13:48:37",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 85,
+      "timestamp": "2025-12-19 13:48:38",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 86,
+      "timestamp": "2025-12-19 13:48:39",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 87,
+      "timestamp": "2025-12-19 13:48:40",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 88,
+      "timestamp": "2025-12-19 13:48:41",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 89,
+      "timestamp": "2025-12-19 13:48:42",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 90,
+      "timestamp": "2025-12-19 13:48:43",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 91,
+      "timestamp": "2025-12-19 13:48:44",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 92,
+      "timestamp": "2025-12-19 13:48:45",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 93,
+      "timestamp": "2025-12-19 13:48:46",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 94,
+      "timestamp": "2025-12-19 13:48:47",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 95,
+      "timestamp": "2025-12-19 13:48:48",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 96,
+      "timestamp": "2025-12-19 13:48:49",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 97,
+      "timestamp": "2025-12-19 13:48:50",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 98,
+      "timestamp": "2025-12-19 13:48:51",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 99,
+      "timestamp": "2025-12-19 13:48:52",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 100,
+      "timestamp": "2025-12-19 13:48:53",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 101,
+      "timestamp": "2025-12-19 13:48:54",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 102,
+      "timestamp": "2025-12-19 13:48:55",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 103,
+      "timestamp": "2025-12-19 13:48:56",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 104,
+      "timestamp": "2025-12-19 13:48:58",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 105,
+      "timestamp": "2025-12-19 13:48:59",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 106,
+      "timestamp": "2025-12-19 13:49:00",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 107,
+      "timestamp": "2025-12-19 13:49:01",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 108,
+      "timestamp": "2025-12-19 13:49:02",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 109,
+      "timestamp": "2025-12-19 13:49:03",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 110,
+      "timestamp": "2025-12-19 13:49:04",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 111,
+      "timestamp": "2025-12-19 13:49:05",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 112,
+      "timestamp": "2025-12-19 13:49:06",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 113,
+      "timestamp": "2025-12-19 13:49:07",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 114,
+      "timestamp": "2025-12-19 13:49:08",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 115,
+      "timestamp": "2025-12-19 13:49:09",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 116,
+      "timestamp": "2025-12-19 13:49:10",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 117,
+      "timestamp": "2025-12-19 13:49:11",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 118,
+      "timestamp": "2025-12-19 13:49:12",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 119,
+      "timestamp": "2025-12-19 13:49:13",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 120,
+      "timestamp": "2025-12-19 13:49:14",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 121,
+      "timestamp": "2025-12-19 13:49:15",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 122,
+      "timestamp": "2025-12-19 13:49:16",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 123,
+      "timestamp": "2025-12-19 13:49:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 124,
+      "timestamp": "2025-12-19 13:49:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 125,
+      "timestamp": "2025-12-19 13:49:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 126,
+      "timestamp": "2025-12-19 13:49:20",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 127,
+      "timestamp": "2025-12-19 13:49:21",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 128,
+      "timestamp": "2025-12-19 13:49:22",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 129,
+      "timestamp": "2025-12-19 13:49:23",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 130,
+      "timestamp": "2025-12-19 13:49:24",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 131,
+      "timestamp": "2025-12-19 13:49:25",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 132,
+      "timestamp": "2025-12-19 13:49:26",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 133,
+      "timestamp": "2025-12-19 13:49:27",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 134,
+      "timestamp": "2025-12-19 13:49:28",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 135,
+      "timestamp": "2025-12-19 13:49:29",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 136,
+      "timestamp": "2025-12-19 13:49:30",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 137,
+      "timestamp": "2025-12-19 13:49:31",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 138,
+      "timestamp": "2025-12-19 13:49:32",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 139,
+      "timestamp": "2025-12-19 13:49:33",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 140,
+      "timestamp": "2025-12-19 13:49:34",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 141,
+      "timestamp": "2025-12-19 13:49:35",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 142,
+      "timestamp": "2025-12-19 13:49:36",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 143,
+      "timestamp": "2025-12-19 13:49:37",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 144,
+      "timestamp": "2025-12-19 13:49:38",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 145,
+      "timestamp": "2025-12-19 13:49:39",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 146,
+      "timestamp": "2025-12-19 13:49:40",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 147,
+      "timestamp": "2025-12-19 13:49:41",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 148,
+      "timestamp": "2025-12-19 13:49:42",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 149,
+      "timestamp": "2025-12-19 13:49:43",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 150,
+      "timestamp": "2025-12-19 13:49:44",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 151,
+      "timestamp": "2025-12-19 13:49:45",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 152,
+      "timestamp": "2025-12-19 13:49:46",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 153,
+      "timestamp": "2025-12-19 13:49:47",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 154,
+      "timestamp": "2025-12-19 13:49:48",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 155,
+      "timestamp": "2025-12-19 13:49:49",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 156,
+      "timestamp": "2025-12-19 13:49:50",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 157,
+      "timestamp": "2025-12-19 13:49:51",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 158,
+      "timestamp": "2025-12-19 13:49:52",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 159,
+      "timestamp": "2025-12-19 13:49:54",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 160,
+      "timestamp": "2025-12-19 13:49:55",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 161,
+      "timestamp": "2025-12-19 13:49:56",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 162,
+      "timestamp": "2025-12-19 13:49:57",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 163,
+      "timestamp": "2025-12-19 13:49:58",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 164,
+      "timestamp": "2025-12-19 13:49:59",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 165,
+      "timestamp": "2025-12-19 13:50:00",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 166,
+      "timestamp": "2025-12-19 13:50:01",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 167,
+      "timestamp": "2025-12-19 13:50:02",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 168,
+      "timestamp": "2025-12-19 13:50:03",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 169,
+      "timestamp": "2025-12-19 13:50:04",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 170,
+      "timestamp": "2025-12-19 13:50:05",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 171,
+      "timestamp": "2025-12-19 13:50:06",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 172,
+      "timestamp": "2025-12-19 13:50:07",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 173,
+      "timestamp": "2025-12-19 13:50:08",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 174,
+      "timestamp": "2025-12-19 13:50:09",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 175,
+      "timestamp": "2025-12-19 13:50:10",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 176,
+      "timestamp": "2025-12-19 13:50:11",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 177,
+      "timestamp": "2025-12-19 13:50:12",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 178,
+      "timestamp": "2025-12-19 13:50:13",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 179,
+      "timestamp": "2025-12-19 13:50:14",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 180,
+      "timestamp": "2025-12-19 13:50:15",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 181,
+      "timestamp": "2025-12-19 13:50:16",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 182,
+      "timestamp": "2025-12-19 13:50:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 183,
+      "timestamp": "2025-12-19 13:50:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Eye tracking violation: Gaze DOWN"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 184,
+      "timestamp": "2025-12-19 13:50:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 185,
+      "timestamp": "2025-12-19 13:50:20",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 186,
+      "timestamp": "2025-12-19 13:50:21",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 187,
+      "timestamp": "2025-12-19 13:50:22",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 188,
+      "timestamp": "2025-12-19 13:50:23",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 189,
+      "timestamp": "2025-12-19 13:50:24",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Down",
+        "Eye tracking violation: Gaze RIGHT"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 190,
+      "timestamp": "2025-12-19 13:50:25",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Right + Down"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 191,
+      "timestamp": "2025-12-19 13:50:26",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 192,
+      "timestamp": "2025-12-19 13:50:27",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 193,
+      "timestamp": "2025-12-19 13:50:28",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 194,
+      "timestamp": "2025-12-19 13:50:29",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 195,
+      "timestamp": "2025-12-19 13:50:30",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Up"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 196,
+      "timestamp": "2025-12-19 13:50:31",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_134712"
+    },
+    {
+      "frame_id": 197,
+      "timestamp": "2025-12-19 13:51:12",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking No Face Detected",
+        "Eye tracking violation: Gaze No Eyes Detected",
+        "Face count violation: 0 face(s) detected"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 198,
+      "timestamp": "2025-12-19 13:51:13",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 199,
+      "timestamp": "2025-12-19 13:51:14",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 200,
+      "timestamp": "2025-12-19 13:51:15",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 201,
+      "timestamp": "2025-12-19 13:51:16",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 202,
+      "timestamp": "2025-12-19 13:51:17",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 203,
+      "timestamp": "2025-12-19 13:51:18",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 204,
+      "timestamp": "2025-12-19 13:51:19",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 205,
+      "timestamp": "2025-12-19 13:51:20",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 206,
+      "timestamp": "2025-12-19 13:51:21",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 207,
+      "timestamp": "2025-12-19 13:51:22",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 208,
+      "timestamp": "2025-12-19 13:51:23",
+      "is_suspicious": false,
+      "violations": [],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 209,
+      "timestamp": "2025-12-19 13:51:24",
+      "is_suspicious": true,
+      "violations": [
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 210,
+      "timestamp": "2025-12-19 13:51:25",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 211,
+      "timestamp": "2025-12-19 13:51:26",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Down",
+        "Object violation: Phone detected",
+        "Object violation: cell phone"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 212,
+      "timestamp": "2025-12-19 13:51:27",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 213,
+      "timestamp": "2025-12-19 13:51:28",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 214,
+      "timestamp": "2025-12-19 13:51:29",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "client_id": "client_20251219_135111"
+    },
+    {
+      "frame_id": 215,
+      "timestamp": "2025-12-19 13:51:30",
+      "is_suspicious": true,
+      "violations": [
+        "Head pose violation: Looking Left + Down"
+      ],
+      "client_id": "client_20251219_135111"
+    }
+  ]
+}
