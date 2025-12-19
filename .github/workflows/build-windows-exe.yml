@@ -15,7 +15,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.11' # Change to your preferred version
+        python-version: '3.11'
 
     - name: Install Dependencies
       run: |
@@ -23,7 +23,6 @@ jobs:
         if (Test-Path image-proctoring/requirements.txt) { pip install -r image-proctoring/requirements.txt }
 
     - name: Build EXE
-      # Replace 'your_script.py' with your actual filename
       run: pyinstaller --onefile --noconsole image-proctoring/server.py
 
     - name: Upload EXE
